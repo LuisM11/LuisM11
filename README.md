@@ -42,10 +42,10 @@ Otras
 
 ### Estadísticas de GitHub
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=LuisM11&show_icons=true"><p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=LuisM11&show_icons=true&theme=transparent"><p>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisM11&layout=compact"><p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisM11&layout=compact&theme=transparent"><p>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisM11"><p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisM11&layout=compact&theme=dracula"><p>
 
-<p><img src="https://metrics.lecoq.io/LuisM11"><p>
+
