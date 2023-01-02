@@ -41,11 +41,15 @@ Otras
 </p>
 
 ### Estadísticas de GitHub
+<div align="center">  
+  <img width="49%"  src="https://github-readme-stats.vercel.app/api?username=LuisM11&show_icons=true&count_private=true&hide_border=true&title_color=4a94a8&icon_color=fff&text_color=c9d1d9&bg_color=30,404146,0D1117" alt=""/> 
+ 
+  
+  <img width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisM11&show_icons=true&count_private=true&title_color=4a94a8&icon_color=fff&bg_color=20,0D1117,404146&hide_border=true&text_color=c9d1d9&layout=compact">
+</div>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=LuisM11&show_icons=true&theme=transparent"><p>
-
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisM11&layout=compact&theme=transparent"><p>
-
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisM11&layout=compact&theme=dracula"><p>
+<div align="center">
+  <img width="49%" height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=LuisM11&hide_border=true&stroke=fff&background=15181e&ring=4a94a8&fire=50e1f0&currStreakLabel=50e1f0&theme=black-ice"/>
+</div>
 
 
