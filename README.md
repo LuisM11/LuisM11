@@ -3,7 +3,7 @@
 
 <!-- ![banner](https://user-images.githubusercontent.com/70180237/210116783-57392a15-77fd-49de-9e01-87068e474f76.png)   -->
 ---
-Estudiante de Ingeniería de Sistemas e Informática en la Universidad Nacional de Colombia sede Medellín, actualmente también estudiante del Certified Tech Developer en Digital house, entusiasta del desarrollo de software y de todo lo concerniente a las TIC.
+Estudiante de Ingeniería de Sistemas e Informática en la Universidad Nacional de Colombia sede Medellín, entusiasta del desarrollo de software y de todo lo relacionado al mundo de las nuevas tecnologias.
 
 Siempre dispuesto a aprender cada día algo nuevo para crecimiento profesional y personal, busco poner a prueba mis capacidades a la hora de resolver problemas y a la vez de que cuento con habilidades acertadas para un pleno desarrollo de proyectos en equipo basados en metodologías modernas de trabajo.
 
