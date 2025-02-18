@@ -1,11 +1,9 @@
-# Hola a todos 🤠 Soy...
+# Howdy 🤠 
 ![lfCover](https://user-images.githubusercontent.com/70180237/210119652-7a4d2eab-27d6-4756-8feb-5a1145df69d7.png)
 
 <!-- ![banner](https://user-images.githubusercontent.com/70180237/210116783-57392a15-77fd-49de-9e01-87068e474f76.png)   -->
 ---
-Estudiante de Ingeniería de Sistemas e Informática en la Universidad Nacional de Colombia sede Medellín, entusiasta del desarrollo de software y de todo lo relacionado al mundo de las nuevas tecnologias.
-
-Siempre dispuesto a aprender cada día algo nuevo para crecimiento profesional y personal, busco poner a prueba mis capacidades a la hora de resolver problemas y a la vez de que cuento con habilidades acertadas para un pleno desarrollo de proyectos en equipo basados en metodologías modernas de trabajo.
+Not very involved in web development for some time now, exploring the vast lands of SQA
 
 <p>
 
@@ -13,7 +11,7 @@ Siempre dispuesto a aprender cada día algo nuevo para crecimiento profesional y
 
 </p>
 
-### Tecnologías
+### Technologies
 
 <p>
 Backend 
@@ -43,13 +41,13 @@ Frontend
 </p>
 
 <p> 
-Otras 
+Other 
 <img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" style="margin-bottom: 4px;" height="30px">
 </p>
 
-### Estadísticas de GitHub
+### Statistics
 <div align="center">  
   <img width="49%"  src="https://github-readme-stats.vercel.app/api?username=LuisM11&show_icons=true&count_private=true&hide_border=true&title_color=4a94a8&icon_color=fff&text_color=c9d1d9&bg_color=30,404146,0D1117" alt=""/> 
  
